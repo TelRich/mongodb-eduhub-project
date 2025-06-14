@@ -267,10 +267,9 @@ mongodb-eduhub-project/
 ├── data/
 │   ├── sample_data.json               # Exported sample data
 │   └── schema_validation.json         # Schema validation rules
-├── docs/
-│   ├── performance_analysis.md        # Performance optimization docs
-│   └── presentation.pptx              # Project presentation
-└── .git/                              # Git repository
+└── docs/
+    ├── performance_analysis.md        # Performance optimization docs
+    └── presentation.pptx              # Project presentation
 ```
 
 ## 🎯 Learning Objectives Achieved
@@ -433,8 +432,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Goodrich Okoro**
 - AltSchool of Data Engineering Tinyuka 2024
-- Email: [your-email@example.com]
-- GitHub: [@yourusername]
+- Email: okogoodrich@gmail.com
+- GitHub: https://github.com/TelRich
 
 ## 🏆 Project Status
 
