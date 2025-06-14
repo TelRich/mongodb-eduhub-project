@@ -409,22 +409,22 @@ The database is populated with realistic educational data:
 - **Academic Grading:** Realistic grade distribution and professional feedback
 
 ### Users Collection
-![users collection](images/users_collection.png)
+![users collection](images/users_col.png)
 
 ### Courses Collection
-![course collection](images/courses_collection.png)
+![course collection](images/courses_col.png)
 
 ### Enrollments Collection
-![enrollments collection](images/enrollments_collection.png)
+![enrollments collection](images/enrollments_col.png)
 
 ### Lessons Collection
-![lessons collection](images/lessons_collection.png)
+![lessons collection](images/lessons_col.png)
 
 ### Assignments Collection
-![assignments collection](images/assignments_collection.png)
+![assignments collection](images/assignments_col.png)
 
 ### Submissions Collection
-![submissions collection](images/submissions_collection.png)
+![submissions collection](images/submissions_col.png)
 
 ## 🔍 Key Queries and Operations
 
