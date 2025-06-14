@@ -68,7 +68,7 @@ Contains course information and metadata:
   "courseId": "CO_001",
   "title": "Introduction to Python",
   "description": "Learn Python programming fundamentals",
-  "instructorId": "INST_001",
+  "instructorId": "IN_001",
   "category": "Programming",
   "level": "beginner", // "beginner", "intermediate", "advanced"
   "duration": 40,
@@ -343,7 +343,7 @@ student_id = db.add_new_student(
 course_id = db.create_new_course(
     title="Advanced Python Programming",
     description="Deep dive into Python advanced concepts",
-    instructor_id="INST_001",
+    instructor_id="IN_001",
     category="Programming",
     level="advanced",
     duration=60,
