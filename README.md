@@ -46,7 +46,7 @@ CONNECTION_STRING = "mongodb://localhost:27017/"
 Stores information about students and instructors:
 ```json
 {
-  "userId": "STU_001",
+  "userId": "ST_001",
   "email": "student@example.com",
   "firstName": "John",
   "lastName": "Doe",
@@ -65,7 +65,7 @@ Stores information about students and instructors:
 Contains course information and metadata:
 ```json
 {
-  "courseId": "COURSE_001",
+  "courseId": "CO_001",
   "title": "Introduction to Python",
   "description": "Learn Python programming fundamentals",
   "instructorId": "INST_001",
@@ -85,9 +85,9 @@ Contains course information and metadata:
 Tracks student course enrollments:
 ```json
 {
-  "enrollmentId": "ENROLL_001",
-  "studentId": "STU_001",
-  "courseId": "COURSE_001",
+  "enrollmentId": "EN_001",
+  "studentId": "ST_001",
+  "courseId": "CO_001",
   "enrollmentDate": "2024-02-01T10:00:00Z",
   "status": "active", // "active", "completed", "dropped"
   "progress": 65,
@@ -99,8 +99,8 @@ Tracks student course enrollments:
 Stores individual lessons within courses:
 ```json
 {
-  "lessonId": "LESSON_001",
-  "courseId": "COURSE_001",
+  "lessonId": "LE_001",
+  "courseId": "CO_001",
   "title": "Variables and Data Types",
   "content": "In this lesson, we'll explore...",
   "duration": 30,
@@ -115,8 +115,8 @@ Stores individual lessons within courses:
 Contains course assignments:
 ```json
 {
-  "assignmentId": "ASSIGN_001",
-  "courseId": "COURSE_001",
+  "assignmentId": "AS_001",
+  "courseId": "CO_001",
   "title": "Python Basics Quiz",
   "description": "Test your understanding of Python basics",
   "dueDate": "2024-02-15T23:59:59Z",
@@ -130,9 +130,9 @@ Contains course assignments:
 Tracks student assignment submissions:
 ```json
 {
-  "submissionId": "SUB_001",
-  "assignmentId": "ASSIGN_001",
-  "studentId": "STU_001",
+  "submissionId": "SU_001",
+  "assignmentId": "AS_001",
+  "studentId": "ST_001",
   "submissionDate": "2024-02-14T18:30:00Z",
   "content": "My solution to the assignment...",
   "attachments": ["solution.py"],
@@ -369,7 +369,7 @@ invalid_email = db.validate_email_format("invalid-email")   # Returns False
 
 # Test user creation with validation
 user_data = {
-    "userId": "STU_100",
+    "userId": "ST_100",
     "email": "test@example.com",
     "firstName": "Test",
     "lastName": "User",
