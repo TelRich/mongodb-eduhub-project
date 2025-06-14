@@ -287,7 +287,7 @@ upcoming = db.get_assignments_due_next_week()
 
 ```
 mongodb-eduhub-project/
-├── README.md                           # Project documentation
+├── README.md                          # Project documentation
 ├── .gitignore                         # Git ignore file
 ├── notebooks/
 │   └── eduhub_mongodb_project.ipynb   # Interactive Jupyter notebook
