@@ -16,14 +16,27 @@ EduHub is a complete database backend for an online learning platform that suppo
 
 ## 🛠️ Technical Requirements
 
-- **MongoDB Version:** v8.0 or higher
+- **MongoDB:** v8.0 or higher (MongoDB Atlas Cloud or Local)
 - **Python:** 3.8 or higher
 - **Environment:** MongoDB Compass (GUI) and MongoDB Shell (CLI)
 - **Libraries:** 
   - `pymongo` - MongoDB Python driver
   - `pandas` - Data manipulation and analysis
-  - `faker` - Generate sample data
   - `datetime` - Date and time operations
+  - `json` - Data serialization
+
+## 🌐 Database Configuration
+
+This project uses **MongoDB Atlas** (cloud database) for production deployment with fallback to local MongoDB for development.
+
+### Connection Configuration
+```python
+# Cloud MongoDB Atlas (Primary)
+CONNECTION_STRING = "mongodb+srv://username:password@cluster.mongodb.net/"
+
+# Local MongoDB (Development)
+CONNECTION_STRING = "mongodb://localhost:27017/"
+```
 
 ## 🗂️ Database Schema
 
@@ -133,7 +146,12 @@ Tracks student assignment submissions:
 
 ### Prerequisites
 
-1. **Install MongoDB:**
+1. **MongoDB Atlas Account (Recommended):**
+   - Sign up at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+   - Create a free cluster
+   - Get your connection string
+
+2. **Alternative - Local MongoDB Installation:**
    ```bash
    # On macOS using Homebrew
    brew tap mongodb/brew
@@ -146,25 +164,24 @@ Tracks student assignment submissions:
    # Download from https://www.mongodb.com/try/download/community
    ```
 
-2. **Install Python Dependencies:**
+3. **Install Python Dependencies:**
    ```bash
-   pip install pymongo pandas faker jupyter notebook
+   pip install pymongo pandas jupyter notebook
    ```
 
 ### Database Setup
 
-1. **Start MongoDB Service:**
-   ```bash
-   # macOS/Linux
-   sudo systemctl start mongod
-   
-   # Or using brew services (macOS)
-   brew services start mongodb-community
+1. **Configure Connection:**
+   - Create a `config.json` file in the `notebooks/` directory:
+   ```json
+   {
+     "cloud_db_url": "mongodb+srv://username:password@cluster.mongodb.net/"
+   }
    ```
 
 2. **Clone and Navigate to Project:**
    ```bash
-   git clone https://github.com/TelRich/mongodb-eduhub-project.git
+   git clone <repository-url>
    cd mongodb-eduhub-project
    ```
 
@@ -178,7 +195,19 @@ Tracks student assignment submissions:
    jupyter notebook notebooks/eduhub_mongodb_project.ipynb
    ```
 
-## 📊 Key Features Implemented
+## 🎆 Key Project Features
+
+### 🔄 **No External Dependencies for Data Generation**
+- **Realistic Educational Data:** Removed faker dependency in favor of curated educational content
+- **Professional Profiles:** Real instructor backgrounds and student interests
+- **Industry-Standard Courses:** Actual course titles and descriptions from tech industry
+- **Academic Authenticity:** Proper assignment structures and grading patterns
+
+### 🌐 **MongoDB Atlas Cloud Integration**
+- **Cloud-First Architecture:** Designed for MongoDB Atlas deployment
+- **Scalable Infrastructure:** Ready for production workloads
+- **Connection Flexibility:** Supports both cloud and local development
+- **Performance Optimized:** Cloud-optimized indexing strategies
 
 ### 1. Comprehensive CRUD Operations
 - **Create:** Add users, courses, enrollments, lessons, assignments
@@ -292,8 +321,9 @@ mongodb-eduhub-project/
 ```python
 from src.eduhub_queries import EduHubDatabase
 
-# Initialize database connection
-db = EduHubDatabase()
+# Initialize with MongoDB Atlas
+CONNECTION_STRING = "mongodb+srv://username:password@cluster.mongodb.net/"
+db = EduHubDatabase(CONNECTION_STRING)
 
 # Populate with sample data
 db.populate_sample_data()
@@ -363,13 +393,20 @@ db.optimize_slow_queries()
 
 ## 📊 Sample Data Overview
 
-The database is populated with realistic sample data:
-- **20 Users:** 15 students and 5 instructors
-- **8 Courses:** Across different categories and levels
-- **25 Lessons:** Distributed across courses
-- **10 Assignments:** With varying due dates and points
-- **15 Enrollments:** Representing student-course relationships
-- **12 Submissions:** Assignment submissions with grades
+The database is populated with realistic educational data:
+- **20 Users:** 15 students and 5 instructors with professional profiles
+- **8 Courses:** Comprehensive courses across different tech categories
+- **25 Lessons:** Educational content with proper learning progression
+- **10 Assignments:** Real-world project assignments
+- **15 Enrollments:** Student-course relationships with progress tracking
+- **10+ Submissions:** Assignment submissions with realistic grades and feedback
+
+### Realistic Data Features
+- **Professional Instructors:** Former Google, Facebook, Stanford backgrounds
+- **Comprehensive Courses:** Python, Data Science, AI/ML, Web Development, Cloud Computing
+- **Educational Content:** Proper lesson structures with video URLs and materials
+- **Industry Projects:** Real-world assignment descriptions and requirements
+- **Academic Grading:** Realistic grade distribution and professional feedback
 
 ## 🔍 Key Queries and Operations
 
@@ -431,7 +468,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Goodrich Okoro**
-- AltSchool of Data Engineering Tinyuka 2024
+- Data Engineering - AlltSchool (Tinyuka) 2024
 - Email: okogoodrich@gmail.com
 - GitHub: https://github.com/TelRich
 
