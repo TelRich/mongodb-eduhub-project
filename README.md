@@ -408,6 +408,24 @@ The database is populated with realistic educational data:
 - **Industry Projects:** Real-world assignment descriptions and requirements
 - **Academic Grading:** Realistic grade distribution and professional feedback
 
+### Users Collection
+![users collection](images/users_collection.png)
+
+### Courses Collection
+![course collection](images/courses_collection.png)
+
+### Enrollments Collection
+![enrollments collection](images/enrollments_collection.png)
+
+### Lessons Collection
+![lessons collection](images/lessons_collection.png)
+
+### Assignments Collection
+![assignments collection](images/assignments_collection.png)
+
+### Submissions Collection
+![submissions collection](images/submissions_collection.png)
+
 ## 🔍 Key Queries and Operations
 
 ### Business Intelligence Queries
