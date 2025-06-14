@@ -1,6 +1,6 @@
 # EduHub - MongoDB E-Learning Platform Database
 
-> **AltSchool of Data Engineering Tinyuka 2024 Second Semester Project Exam**
+> **Data Engineering - AltSchool (Tinyuka) 2024 Second Semester Project Exam**
 
 A comprehensive MongoDB database system for an online e-learning platform, demonstrating advanced NoSQL database concepts, operations, and optimization techniques.
 
