@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "_id": "684daf442f78d4d0f1719f69",
+      "_id": "684ec0c02f78d4d0f1719fca",
       "userId": "IN_001",
       "email": "sarah.johnson@eduhub.com",
       "firstName": "Sarah",
       "lastName": "Johnson",
       "role": "instructor",
-      "dateJoined": "2023-10-22T18:20:04.093000",
+      "dateJoined": "2023-11-26T13:46:56.361000",
       "profile": {
         "bio": "PhD in Computer Science with 10+ years experience in machine learning and data analytics. Former Google AI researcher.",
         "avatar": "https://ui-avatars.com/api/?name=Sarah+Johnson&background=random&size=200",
@@ -21,13 +21,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f6a",
+      "_id": "684ec0c02f78d4d0f1719fcb",
       "userId": "IN_002",
       "email": "michael.chen@eduhub.com",
       "firstName": "Michael",
       "lastName": "Chen",
       "role": "instructor",
-      "dateJoined": "2023-10-30T18:20:04.094000",
+      "dateJoined": "2023-09-13T13:46:56.362000",
       "profile": {
         "bio": "Full-stack developer and former Facebook engineer with expertise in React, Node.js, and modern web technologies.",
         "avatar": "https://ui-avatars.com/api/?name=Michael+Chen&background=random&size=200",
@@ -41,13 +41,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f6b",
+      "_id": "684ec0c02f78d4d0f1719fcc",
       "userId": "IN_003",
       "email": "emily.rodriguez@eduhub.com",
       "firstName": "Emily",
       "lastName": "Rodriguez",
       "role": "instructor",
-      "dateJoined": "2023-12-20T18:20:04.094000",
+      "dateJoined": "2024-03-09T13:46:56.362000",
       "profile": {
         "bio": "AI researcher and Stanford graduate specializing in deep learning, computer vision, and natural language processing.",
         "avatar": "https://ui-avatars.com/api/?name=Emily+Rodriguez&background=random&size=200",
@@ -61,13 +61,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f6c",
+      "_id": "684ec0c02f78d4d0f1719fcd",
       "userId": "IN_004",
       "email": "david.kumar@eduhub.com",
       "firstName": "David",
       "lastName": "Kumar",
       "role": "instructor",
-      "dateJoined": "2023-10-24T18:20:04.094000",
+      "dateJoined": "2023-07-15T13:46:56.362000",
       "profile": {
         "bio": "AWS Solutions Architect with 8+ years experience in cloud infrastructure, DevOps, and distributed systems.",
         "avatar": "https://ui-avatars.com/api/?name=David+Kumar&background=random&size=200",
@@ -81,13 +81,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f6d",
+      "_id": "684ec0c02f78d4d0f1719fce",
       "userId": "IN_005",
       "email": "lisa.thompson@eduhub.com",
       "firstName": "Lisa",
       "lastName": "Thompson",
       "role": "instructor",
-      "dateJoined": "2023-12-26T18:20:04.094000",
+      "dateJoined": "2023-09-19T13:46:56.362000",
       "profile": {
         "bio": "Cybersecurity expert and ethical hacker with certifications in CISSP, CEH, and extensive experience in security auditing.",
         "avatar": "https://ui-avatars.com/api/?name=Lisa+Thompson&background=random&size=200",
@@ -101,13 +101,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f6e",
+      "_id": "684ec0c02f78d4d0f1719fcf",
       "userId": "ST_001",
       "email": "alex.williams@student.com",
       "firstName": "Alex",
       "lastName": "Williams",
       "role": "student",
-      "dateJoined": "2024-10-17T18:20:04.094000",
+      "dateJoined": "2025-02-06T13:46:56.362000",
       "profile": {
         "bio": "Updated bio with new skills and interests",
         "avatar": "https://ui-avatars.com/api/?name=Alex+Williams&background=random&size=200",
@@ -121,13 +121,13 @@
       "isActive": false
     },
     {
-      "_id": "684daf442f78d4d0f1719f6f",
+      "_id": "684ec0c02f78d4d0f1719fd0",
       "userId": "ST_002",
       "email": "maria.garcia@student.com",
       "firstName": "Maria",
       "lastName": "Garcia",
       "role": "student",
-      "dateJoined": "2024-11-10T18:20:04.094000",
+      "dateJoined": "2025-06-04T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in JavaScript, React and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Maria+Garcia&background=random&size=200",
@@ -140,13 +140,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f70",
+      "_id": "684ec0c02f78d4d0f1719fd1",
       "userId": "ST_003",
       "email": "james.brown@student.com",
       "firstName": "James",
       "lastName": "Brown",
       "role": "student",
-      "dateJoined": "2024-08-26T18:20:04.094000",
+      "dateJoined": "2025-01-09T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Machine Learning, Python and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=James+Brown&background=random&size=200",
@@ -159,13 +159,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f71",
+      "_id": "684ec0c02f78d4d0f1719fd2",
       "userId": "ST_004",
       "email": "emma.davis@student.com",
       "firstName": "Emma",
       "lastName": "Davis",
       "role": "student",
-      "dateJoined": "2025-02-05T18:20:04.094000",
+      "dateJoined": "2025-04-09T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Web Design, CSS and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Emma+Davis&background=random&size=200",
@@ -178,13 +178,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f72",
+      "_id": "684ec0c02f78d4d0f1719fd3",
       "userId": "ST_005",
       "email": "ryan.miller@student.com",
       "firstName": "Ryan",
       "lastName": "Miller",
       "role": "student",
-      "dateJoined": "2024-08-09T18:20:04.094000",
+      "dateJoined": "2025-01-07T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Cloud Computing, AWS and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Ryan+Miller&background=random&size=200",
@@ -197,13 +197,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f73",
+      "_id": "684ec0c02f78d4d0f1719fd4",
       "userId": "ST_006",
       "email": "sophia.wilson@student.com",
       "firstName": "Sophia",
       "lastName": "Wilson",
       "role": "student",
-      "dateJoined": "2025-05-15T18:20:04.094000",
+      "dateJoined": "2024-08-15T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Data Science, R and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Sophia+Wilson&background=random&size=200",
@@ -216,13 +216,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f74",
+      "_id": "684ec0c02f78d4d0f1719fd5",
       "userId": "ST_007",
       "email": "noah.moore@student.com",
       "firstName": "Noah",
       "lastName": "Moore",
       "role": "student",
-      "dateJoined": "2024-08-03T18:20:04.094000",
+      "dateJoined": "2025-01-03T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Cybersecurity, Networking and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Noah+Moore&background=random&size=200",
@@ -235,13 +235,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f75",
+      "_id": "684ec0c02f78d4d0f1719fd6",
       "userId": "ST_008",
       "email": "olivia.taylor@student.com",
       "firstName": "Olivia",
       "lastName": "Taylor",
       "role": "student",
-      "dateJoined": "2024-11-22T18:20:04.094000",
+      "dateJoined": "2024-12-30T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Mobile Dev, Flutter and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Olivia+Taylor&background=random&size=200",
@@ -254,13 +254,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f76",
+      "_id": "684ec0c02f78d4d0f1719fd7",
       "userId": "ST_009",
       "email": "liam.anderson@student.com",
       "firstName": "Liam",
       "lastName": "Anderson",
       "role": "student",
-      "dateJoined": "2025-05-14T18:20:04.094000",
+      "dateJoined": "2024-08-21T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Backend Dev, APIs and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Liam+Anderson&background=random&size=200",
@@ -273,13 +273,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f77",
+      "_id": "684ec0c02f78d4d0f1719fd8",
       "userId": "ST_010",
       "email": "ava.thomas@student.com",
       "firstName": "Ava",
       "lastName": "Thomas",
       "role": "student",
-      "dateJoined": "2025-03-25T18:20:04.094000",
+      "dateJoined": "2025-06-06T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in AI, Computer Vision and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Ava+Thomas&background=random&size=200",
@@ -292,13 +292,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f78",
+      "_id": "684ec0c02f78d4d0f1719fd9",
       "userId": "ST_011",
       "email": "ethan.jackson@student.com",
       "firstName": "Ethan",
       "lastName": "Jackson",
       "role": "student",
-      "dateJoined": "2024-07-22T18:20:04.094000",
+      "dateJoined": "2024-08-25T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in DevOps, Kubernetes and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Ethan+Jackson&background=random&size=200",
@@ -311,13 +311,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f79",
+      "_id": "684ec0c02f78d4d0f1719fda",
       "userId": "ST_012",
       "email": "isabella.white@student.com",
       "firstName": "Isabella",
       "lastName": "White",
       "role": "student",
-      "dateJoined": "2024-08-13T18:20:04.094000",
+      "dateJoined": "2025-01-24T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Data Mining, SQL and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Isabella+White&background=random&size=200",
@@ -330,13 +330,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f7a",
+      "_id": "684ec0c02f78d4d0f1719fdb",
       "userId": "ST_013",
       "email": "mason.harris@student.com",
       "firstName": "Mason",
       "lastName": "Harris",
       "role": "student",
-      "dateJoined": "2025-04-30T18:20:04.094000",
+      "dateJoined": "2025-01-24T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Game Dev, Unity and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Mason+Harris&background=random&size=200",
@@ -349,13 +349,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f7b",
+      "_id": "684ec0c02f78d4d0f1719fdc",
       "userId": "ST_014",
       "email": "mia.martin@student.com",
       "firstName": "Mia",
       "lastName": "Martin",
       "role": "student",
-      "dateJoined": "2024-12-01T18:20:04.094000",
+      "dateJoined": "2024-08-07T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Frontend, Vue.js and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Mia+Martin&background=random&size=200",
@@ -368,13 +368,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf442f78d4d0f1719f7c",
+      "_id": "684ec0c02f78d4d0f1719fdd",
       "userId": "ST_015",
       "email": "lucas.clark@student.com",
       "firstName": "Lucas",
       "lastName": "Clark",
       "role": "student",
-      "dateJoined": "2024-12-23T18:20:04.094000",
+      "dateJoined": "2024-10-04T13:46:56.363000",
       "profile": {
         "bio": "Passionate learner interested in Blockchain, Ethereum and modern technology.",
         "avatar": "https://ui-avatars.com/api/?name=Lucas+Clark&background=random&size=200",
@@ -387,13 +387,13 @@
       "isActive": true
     },
     {
-      "_id": "684daf4a2f78d4d0f1719fc3",
+      "_id": "684ec0c82f78d4d0f171a024",
       "userId": "ST_016",
       "email": "alice.johnson@example.com",
       "firstName": "Alice",
       "lastName": "Johnson",
       "role": "student",
-      "dateJoined": "2025-06-14T18:20:10.827000",
+      "dateJoined": "2025-06-15T13:47:04.048000",
       "profile": {
         "bio": "CS student interested in web development",
         "avatar": "https://ui-avatars.com/api/?name=Alice+Johnson&background=random&size=200",
@@ -407,7 +407,7 @@
       "isActive": true
     },
     {
-      "_id": "684daf5e2f78d4d0f1719fc7",
+      "_id": "684ec0d22f78d4d0f171a028",
       "userId": "TEST_001",
       "email": "test@example.com",
       "firstName": "Test",
@@ -417,11 +417,11 @@
   ],
   "courses": [
     {
-      "_id": "684daf442f78d4d0f1719f7d",
+      "_id": "684ec0c02f78d4d0f1719fde",
       "courseId": "CO_001",
       "title": "Complete Python Programming Bootcamp",
       "description": "Master Python from basics to advanced topics including OOP, web scraping, data analysis, and automation. Build real-world projects and prepare for Python developer roles.",
-      "instructorId": "IN_005",
+      "instructorId": "IN_002",
       "category": "Programming",
       "level": "beginner",
       "duration": 40,
@@ -436,13 +436,13 @@
         "hands-on",
         "project-based"
       ],
-      "createdAt": "2025-03-13T18:20:04.606000",
-      "updatedAt": "2025-06-14T18:20:19.042000",
+      "createdAt": "2025-02-02T13:46:56.777000",
+      "updatedAt": "2025-06-15T13:47:07.634000",
       "isPublished": true,
-      "rating": 4.7
+      "rating": 3.9
     },
     {
-      "_id": "684daf442f78d4d0f1719f7e",
+      "_id": "684ec0c02f78d4d0f1719fdf",
       "courseId": "CO_002",
       "title": "Data Science with Machine Learning",
       "description": "Comprehensive course covering statistics, data visualization, machine learning algorithms, and real-world data science projects using Python and R.",
@@ -458,13 +458,13 @@
         "pandas",
         "scikit-learn"
       ],
-      "createdAt": "2024-12-18T18:20:04.606000",
-      "updatedAt": "2025-06-14T18:20:04.606000",
-      "isPublished": true,
-      "rating": 3.9
+      "createdAt": "2025-04-13T13:46:56.778000",
+      "updatedAt": "2025-06-12T13:46:56.778000",
+      "isPublished": false,
+      "rating": 4.7
     },
     {
-      "_id": "684daf442f78d4d0f1719f7f",
+      "_id": "684ec0c02f78d4d0f1719fe0",
       "courseId": "CO_003",
       "title": "Full Stack Web Development",
       "description": "Build modern web applications using React, Node.js, Express, and MongoDB. Learn front-end and back-end development with hands-on projects.",
@@ -480,13 +480,13 @@
         "mongodb",
         "full-stack"
       ],
-      "createdAt": "2025-01-18T18:20:04.606000",
-      "updatedAt": "2025-05-19T18:20:04.606000",
-      "isPublished": true,
-      "rating": 4.3
+      "createdAt": "2025-01-16T13:46:56.778000",
+      "updatedAt": "2025-05-21T13:46:56.778000",
+      "isPublished": false,
+      "rating": 3.9
     },
     {
-      "_id": "684daf442f78d4d0f1719f80",
+      "_id": "684ec0c02f78d4d0f1719fe1",
       "courseId": "CO_004",
       "title": "Artificial Intelligence Fundamentals",
       "description": "Introduction to AI concepts, neural networks, deep learning, and practical applications. Includes projects in computer vision and natural language processing.",
@@ -502,13 +502,13 @@
         "tensorflow",
         "computer-vision"
       ],
-      "createdAt": "2025-01-13T18:20:04.606000",
-      "updatedAt": "2025-05-28T18:20:04.606000",
+      "createdAt": "2025-02-22T13:46:56.778000",
+      "updatedAt": "2025-06-06T13:46:56.778000",
       "isPublished": true,
-      "rating": 4.2
+      "rating": 4.5
     },
     {
-      "_id": "684daf442f78d4d0f1719f81",
+      "_id": "684ec0c02f78d4d0f1719fe2",
       "courseId": "CO_005",
       "title": "Cloud Computing with AWS",
       "description": "Master Amazon Web Services including EC2, S3, RDS, Lambda, and deployment strategies. Prepare for AWS certification and cloud architect roles.",
@@ -525,13 +525,13 @@
         "lambda",
         "devops"
       ],
-      "createdAt": "2025-02-14T18:20:04.606000",
-      "updatedAt": "2025-05-25T18:20:04.606000",
+      "createdAt": "2025-03-16T13:46:56.778000",
+      "updatedAt": "2025-05-19T13:46:56.778000",
       "isPublished": true,
       "rating": 4.6
     },
     {
-      "_id": "684daf442f78d4d0f1719f82",
+      "_id": "684ec0c02f78d4d0f1719fe3",
       "courseId": "CO_006",
       "title": "Cybersecurity Essentials",
       "description": "Learn network security, ethical hacking, penetration testing, and security best practices. Includes hands-on labs and real-world scenarios.",
@@ -547,17 +547,17 @@
         "network-security",
         "kali-linux"
       ],
-      "createdAt": "2025-03-19T18:20:04.606000",
-      "updatedAt": "2025-05-27T18:20:04.606000",
+      "createdAt": "2025-05-08T13:46:56.778000",
+      "updatedAt": "2025-05-28T13:46:56.778000",
       "isPublished": true,
-      "rating": 4.8
+      "rating": 4.4
     },
     {
-      "_id": "684daf442f78d4d0f1719f83",
+      "_id": "684ec0c02f78d4d0f1719fe4",
       "courseId": "CO_007",
       "title": "MongoDB Database Mastery",
       "description": "Complete guide to MongoDB including document modeling, queries, aggregation pipelines, indexing, and performance optimization for modern applications.",
-      "instructorId": "IN_003",
+      "instructorId": "IN_005",
       "category": "Database",
       "level": "intermediate",
       "duration": 25,
@@ -569,17 +569,17 @@
         "aggregation",
         "indexing"
       ],
-      "createdAt": "2025-03-14T18:20:04.606000",
-      "updatedAt": "2025-06-13T18:20:04.606000",
-      "isPublished": true,
-      "rating": 5.0
+      "createdAt": "2025-04-19T13:46:56.778000",
+      "updatedAt": "2025-06-05T13:46:56.778000",
+      "isPublished": false,
+      "rating": 4.8
     },
     {
-      "_id": "684daf442f78d4d0f1719f84",
+      "_id": "684ec0c02f78d4d0f1719fe5",
       "courseId": "CO_008",
       "title": "Mobile App Development with Flutter",
       "description": "Build cross-platform mobile applications using Flutter and Dart. Create iOS and Android apps with a single codebase and deploy to app stores.",
-      "instructorId": "IN_005",
+      "instructorId": "IN_002",
       "category": "Mobile Development",
       "level": "beginner",
       "duration": 38,
@@ -592,13 +592,13 @@
         "android",
         "cross-platform"
       ],
-      "createdAt": "2025-02-17T18:20:04.606000",
-      "updatedAt": "2025-05-30T18:20:04.606000",
-      "isPublished": true,
-      "rating": 5.0
+      "createdAt": "2025-02-01T13:46:56.778000",
+      "updatedAt": "2025-05-27T13:46:56.778000",
+      "isPublished": false,
+      "rating": 4.5
     },
     {
-      "_id": "684daf4d2f78d4d0f1719fc4",
+      "_id": "684ec0c82f78d4d0f171a025",
       "courseId": "CO_009",
       "title": "Advanced Python Programming",
       "description": "Master advanced Python concepts",
@@ -612,372 +612,379 @@
         "advanced",
         "programming"
       ],
-      "createdAt": "2025-06-14T18:20:13.038000",
-      "updatedAt": "2025-06-14T18:20:13.038000",
+      "createdAt": "2025-06-15T13:47:04.495000",
+      "updatedAt": "2025-06-15T13:47:04.495000",
       "isPublished": false,
       "rating": 0.0
     }
   ],
   "lessons": [
     {
-      "_id": "684daf442f78d4d0f1719f86",
+      "_id": "684ec0c12f78d4d0f1719fe7",
       "lessonId": "LE_002",
       "courseId": "CO_001",
       "title": "Control structures: loops and conditionals",
       "content": "In this lesson, you'll learn about control structures: loops and conditionals. We'll cover the fundamental concepts, best practices, and provide hands-on examples to reinforce your understanding. By the end of this lesson, you'll be able to apply these concepts in real-world programming scenarios.",
-      "duration": 44,
+      "duration": 24,
       "order": 2,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/control-structures:-loops-and-conditionals.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf",
         "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
         "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
       ],
-      "createdAt": "2025-06-12T18:20:04.946000"
+      "createdAt": "2025-05-10T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f87",
+      "_id": "684ec0c12f78d4d0f1719fe8",
       "lessonId": "LE_003",
       "courseId": "CO_001",
       "title": "Functions and modules in Python",
       "content": "In this lesson, you'll learn about functions and modules in python. We'll cover the fundamental concepts, best practices, and provide hands-on examples to reinforce your understanding. By the end of this lesson, you'll be able to apply these concepts in real-world programming scenarios.",
-      "duration": 39,
+      "duration": 40,
       "order": 3,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/functions-and-modules-in-python.mp4",
       "materials": [
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
         "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
-        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip"
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
       ],
-      "createdAt": "2025-05-19T18:20:04.946000"
+      "createdAt": "2025-06-15T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f88",
+      "_id": "684ec0c12f78d4d0f1719fe9",
       "lessonId": "LE_004",
       "courseId": "CO_002",
       "title": "Statistics fundamentals for data science",
       "content": "This lesson focuses on statistics fundamentals for data science in the context of data science. You'll explore practical applications, work with real datasets, and understand how this concept fits into the broader data science workflow. We'll use Python libraries and tools to demonstrate key concepts.",
-      "duration": 45,
+      "duration": 23,
       "order": 1,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/statistics-fundamentals-for-data-science.mp4",
       "materials": [
+        "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
         "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
       ],
-      "createdAt": "2025-04-16T18:20:04.946000"
+      "createdAt": "2025-03-17T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f89",
+      "_id": "684ec0c12f78d4d0f1719fea",
       "lessonId": "LE_005",
       "courseId": "CO_002",
       "title": "Data visualization with matplotlib and seaborn",
       "content": "This lesson focuses on data visualization with matplotlib and seaborn in the context of data science. You'll explore practical applications, work with real datasets, and understand how this concept fits into the broader data science workflow. We'll use Python libraries and tools to demonstrate key concepts.",
-      "duration": 22,
+      "duration": 35,
       "order": 2,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/data-visualization-with-matplotlib-and-seaborn.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
+        "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
         "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf"
       ],
-      "createdAt": "2025-04-12T18:20:04.946000"
+      "createdAt": "2025-05-23T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f8a",
+      "_id": "684ec0c12f78d4d0f1719feb",
       "lessonId": "LE_006",
       "courseId": "CO_002",
       "title": "Pandas for data manipulation and analysis",
       "content": "This lesson focuses on pandas for data manipulation and analysis in the context of data science. You'll explore practical applications, work with real datasets, and understand how this concept fits into the broader data science workflow. We'll use Python libraries and tools to demonstrate key concepts.",
-      "duration": 37,
+      "duration": 22,
       "order": 3,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/pandas-for-data-manipulation-and-analysis.mp4",
       "materials": [
         "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
-        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
       ],
-      "createdAt": "2025-04-09T18:20:04.946000"
+      "createdAt": "2025-06-09T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f8b",
+      "_id": "684ec0c12f78d4d0f1719fec",
       "lessonId": "LE_007",
       "courseId": "CO_003",
       "title": "HTML5 and CSS3 fundamentals",
       "content": "Learn html5 and css3 fundamentals for modern web development. This lesson covers both theoretical concepts and practical implementation. You'll build interactive examples and understand how to integrate these concepts into full-stack applications.",
-      "duration": 21,
+      "duration": 43,
       "order": 1,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/html5-and-css3-fundamentals.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip"
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf"
       ],
-      "createdAt": "2025-05-28T18:20:04.946000"
+      "createdAt": "2025-05-20T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f8c",
+      "_id": "684ec0c12f78d4d0f1719fed",
       "lessonId": "LE_008",
       "courseId": "CO_003",
       "title": "JavaScript ES6+ features and syntax",
       "content": "Learn javascript es6+ features and syntax for modern web development. This lesson covers both theoretical concepts and practical implementation. You'll build interactive examples and understand how to integrate these concepts into full-stack applications.",
-      "duration": 21,
+      "duration": 45,
       "order": 2,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/javascript-es6+-features-and-syntax.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip"
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
       ],
-      "createdAt": "2025-05-29T18:20:04.946000"
+      "createdAt": "2025-06-11T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f8d",
+      "_id": "684ec0c12f78d4d0f1719fee",
       "lessonId": "LE_009",
       "courseId": "CO_003",
       "title": "React components and state management",
       "content": "Learn react components and state management for modern web development. This lesson covers both theoretical concepts and practical implementation. You'll build interactive examples and understand how to integrate these concepts into full-stack applications.",
-      "duration": 27,
+      "duration": 45,
       "order": 3,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/react-components-and-state-management.mp4",
       "materials": [
+        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
         "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
       ],
-      "createdAt": "2025-04-05T18:20:04.946000"
+      "createdAt": "2025-05-09T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f8e",
+      "_id": "684ec0c12f78d4d0f1719fef",
       "lessonId": "LE_010",
       "courseId": "CO_004",
       "title": "Introduction to artificial intelligence",
       "content": "Explore introduction to artificial intelligence in artificial intelligence and machine learning. This lesson combines theoretical foundations with practical implementation using popular frameworks like TensorFlow and PyTorch. You'll work on real AI projects and understand the mathematical concepts behind the algorithms.",
-      "duration": 27,
+      "duration": 37,
       "order": 1,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/introduction-to-artificial-intelligence.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
       ],
-      "createdAt": "2025-04-23T18:20:04.946000"
+      "createdAt": "2025-05-25T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f8f",
+      "_id": "684ec0c12f78d4d0f1719ff0",
       "lessonId": "LE_011",
       "courseId": "CO_004",
       "title": "Neural network architecture and training",
       "content": "Explore neural network architecture and training in artificial intelligence and machine learning. This lesson combines theoretical foundations with practical implementation using popular frameworks like TensorFlow and PyTorch. You'll work on real AI projects and understand the mathematical concepts behind the algorithms.",
-      "duration": 33,
+      "duration": 27,
       "order": 2,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/neural-network-architecture-and-training.mp4",
       "materials": [
         "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
+        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf",
         "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
       ],
-      "createdAt": "2025-04-27T18:20:04.946000"
+      "createdAt": "2025-03-20T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f90",
+      "_id": "684ec0c12f78d4d0f1719ff1",
       "lessonId": "LE_012",
       "courseId": "CO_004",
       "title": "Deep learning with TensorFlow and Keras",
       "content": "Explore deep learning with tensorflow and keras in artificial intelligence and machine learning. This lesson combines theoretical foundations with practical implementation using popular frameworks like TensorFlow and PyTorch. You'll work on real AI projects and understand the mathematical concepts behind the algorithms.",
-      "duration": 21,
+      "duration": 38,
       "order": 3,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/deep-learning-with-tensorflow-and-keras.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
-        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
-        "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
       ],
-      "createdAt": "2025-03-20T18:20:04.946000"
+      "createdAt": "2025-04-18T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f91",
+      "_id": "684ec0c12f78d4d0f1719ff2",
       "lessonId": "LE_013",
       "courseId": "CO_005",
       "title": "Cloud computing fundamentals and service models",
       "content": "Master cloud computing fundamentals and service models in cloud environments. This lesson covers AWS services, best practices for cloud architecture, and hands-on labs to reinforce learning. You'll understand how to implement scalable and cost-effective cloud solutions.",
-      "duration": 37,
+      "duration": 33,
       "order": 1,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/cloud-computing-fundamentals-and-service-models.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
       ],
-      "createdAt": "2025-06-07T18:20:04.946000"
+      "createdAt": "2025-04-11T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f92",
+      "_id": "684ec0c12f78d4d0f1719ff3",
       "lessonId": "LE_014",
       "courseId": "CO_005",
       "title": "AWS EC2 instances and virtual machines",
       "content": "Master aws ec2 instances and virtual machines in cloud environments. This lesson covers AWS services, best practices for cloud architecture, and hands-on labs to reinforce learning. You'll understand how to implement scalable and cost-effective cloud solutions.",
-      "duration": 31,
+      "duration": 24,
       "order": 2,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/aws-ec2-instances-and-virtual-machines.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
-        "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
       ],
-      "createdAt": "2025-06-06T18:20:04.946000"
+      "createdAt": "2025-03-31T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f93",
+      "_id": "684ec0c12f78d4d0f1719ff4",
       "lessonId": "LE_015",
       "courseId": "CO_005",
       "title": "Storage solutions: S3, EBS, and EFS",
       "content": "Master storage solutions: s3, ebs, and efs in cloud environments. This lesson covers AWS services, best practices for cloud architecture, and hands-on labs to reinforce learning. You'll understand how to implement scalable and cost-effective cloud solutions.",
-      "duration": 42,
+      "duration": 36,
       "order": 3,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/storage-solutions:-s3,-ebs,-and-efs.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
-        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
       ],
-      "createdAt": "2025-04-15T18:20:04.946000"
+      "createdAt": "2025-06-02T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f94",
+      "_id": "684ec0c12f78d4d0f1719ff5",
       "lessonId": "LE_016",
       "courseId": "CO_006",
       "title": "Network security principles and protocols",
       "content": "Understand network security principles and protocols from a cybersecurity perspective. This lesson covers threat assessment, security protocols, and practical defense strategies. You'll learn to identify vulnerabilities and implement security measures to protect systems and data.",
-      "duration": 27,
+      "duration": 28,
       "order": 1,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/network-security-principles-and-protocols.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
-        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
-        "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
       ],
-      "createdAt": "2025-06-08T18:20:04.946000"
+      "createdAt": "2025-05-22T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f95",
+      "_id": "684ec0c12f78d4d0f1719ff6",
       "lessonId": "LE_017",
       "courseId": "CO_006",
       "title": "Vulnerability assessment and penetration testing",
       "content": "Understand vulnerability assessment and penetration testing from a cybersecurity perspective. This lesson covers threat assessment, security protocols, and practical defense strategies. You'll learn to identify vulnerabilities and implement security measures to protect systems and data.",
-      "duration": 38,
+      "duration": 41,
       "order": 2,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/vulnerability-assessment-and-penetration-testing.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
-        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
       ],
-      "createdAt": "2025-04-20T18:20:04.946000"
+      "createdAt": "2025-05-22T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f96",
+      "_id": "684ec0c12f78d4d0f1719ff7",
       "lessonId": "LE_018",
       "courseId": "CO_006",
       "title": "Cryptography and secure communication",
       "content": "Understand cryptography and secure communication from a cybersecurity perspective. This lesson covers threat assessment, security protocols, and practical defense strategies. You'll learn to identify vulnerabilities and implement security measures to protect systems and data.",
-      "duration": 44,
+      "duration": 41,
       "order": 3,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/cryptography-and-secure-communication.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
       ],
-      "createdAt": "2025-04-12T18:20:04.946000"
+      "createdAt": "2025-04-28T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f97",
+      "_id": "684ec0c12f78d4d0f1719ff8",
       "lessonId": "LE_019",
       "courseId": "CO_007",
       "title": "Introduction to Python syntax and variables",
       "content": "In this lesson, you'll learn about introduction to python syntax and variables. We'll cover the fundamental concepts, best practices, and provide hands-on examples to reinforce your understanding. By the end of this lesson, you'll be able to apply these concepts in real-world programming scenarios.",
-      "duration": 36,
+      "duration": 22,
       "order": 1,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/introduction-to-python-syntax-and-variables.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
-        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
+        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf"
       ],
-      "createdAt": "2025-03-22T18:20:04.946000"
+      "createdAt": "2025-06-03T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f98",
+      "_id": "684ec0c12f78d4d0f1719ff9",
       "lessonId": "LE_020",
       "courseId": "CO_007",
       "title": "Control structures: loops and conditionals",
       "content": "In this lesson, you'll learn about control structures: loops and conditionals. We'll cover the fundamental concepts, best practices, and provide hands-on examples to reinforce your understanding. By the end of this lesson, you'll be able to apply these concepts in real-world programming scenarios.",
-      "duration": 34,
+      "duration": 25,
       "order": 2,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/control-structures:-loops-and-conditionals.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip"
+        "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
       ],
-      "createdAt": "2025-06-14T18:20:04.946000"
+      "createdAt": "2025-05-23T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f99",
+      "_id": "684ec0c12f78d4d0f1719ffa",
       "lessonId": "LE_021",
       "courseId": "CO_007",
       "title": "Functions and modules in Python",
       "content": "In this lesson, you'll learn about functions and modules in python. We'll cover the fundamental concepts, best practices, and provide hands-on examples to reinforce your understanding. By the end of this lesson, you'll be able to apply these concepts in real-world programming scenarios.",
-      "duration": 28,
+      "duration": 22,
       "order": 3,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/functions-and-modules-in-python.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
-        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
-        "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
+        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip"
       ],
-      "createdAt": "2025-03-16T18:20:04.946000"
+      "createdAt": "2025-03-18T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f9a",
+      "_id": "684ec0c12f78d4d0f1719ffb",
       "lessonId": "LE_022",
       "courseId": "CO_008",
       "title": "Introduction to Python syntax and variables",
       "content": "In this lesson, you'll learn about introduction to python syntax and variables. We'll cover the fundamental concepts, best practices, and provide hands-on examples to reinforce your understanding. By the end of this lesson, you'll be able to apply these concepts in real-world programming scenarios.",
-      "duration": 21,
+      "duration": 20,
       "order": 1,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/introduction-to-python-syntax-and-variables.mp4",
       "materials": [
+        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf",
         "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
-        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
-        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
       ],
-      "createdAt": "2025-05-16T18:20:04.946000"
+      "createdAt": "2025-04-25T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f9b",
+      "_id": "684ec0c12f78d4d0f1719ffc",
       "lessonId": "LE_023",
       "courseId": "CO_008",
       "title": "Control structures: loops and conditionals",
       "content": "In this lesson, you'll learn about control structures: loops and conditionals. We'll cover the fundamental concepts, best practices, and provide hands-on examples to reinforce your understanding. By the end of this lesson, you'll be able to apply these concepts in real-world programming scenarios.",
-      "duration": 29,
+      "duration": 43,
       "order": 2,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/control-structures:-loops-and-conditionals.mp4",
       "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
-        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
-        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
+        "https://eduhub-materials.s3.amazonaws.com/exercises.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/reference-guide.pdf"
       ],
-      "createdAt": "2025-04-25T18:20:04.946000"
+      "createdAt": "2025-04-11T13:46:57.297000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f9c",
+      "_id": "684ec0c12f78d4d0f1719ffd",
       "lessonId": "LE_024",
       "courseId": "CO_008",
       "title": "Functions and modules in Python",
       "content": "In this lesson, you'll learn about functions and modules in python. We'll cover the fundamental concepts, best practices, and provide hands-on examples to reinforce your understanding. By the end of this lesson, you'll be able to apply these concepts in real-world programming scenarios.",
-      "duration": 28,
+      "duration": 29,
       "order": 3,
       "videoUrl": "https://eduhub-videos.s3.amazonaws.com/functions-and-modules-in-python.mp4",
       "materials": [
+        "https://eduhub-materials.s3.amazonaws.com/code-examples.zip",
         "https://eduhub-materials.s3.amazonaws.com/slides.pdf",
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv"
+      ],
+      "createdAt": "2025-06-06T13:46:57.297000"
+    },
+    {
+      "_id": "684ec0c12f78d4d0f1719ffe",
+      "lessonId": "LE_025",
+      "courseId": "CO_003",
+      "title": "Database integration and API development",
+      "content": "Learn database integration and api development for modern web development. This lesson covers both theoretical concepts and practical implementation. You'll build interactive examples and understand how to integrate these concepts into full-stack applications.",
+      "duration": 28,
+      "order": 3,
+      "videoUrl": "https://eduhub-videos.s3.amazonaws.com/database-integration-and-api-development.mp4",
+      "materials": [
+        "https://eduhub-materials.s3.amazonaws.com/dataset.csv",
         "https://eduhub-materials.s3.amazonaws.com/exercises.pdf"
       ],
-      "createdAt": "2025-04-23T18:20:04.946000"
+      "createdAt": "2025-04-05T13:46:57.298000"
     },
     {
-      "_id": "684daf442f78d4d0f1719f9d",
-      "lessonId": "LE_025",
-      "courseId": "CO_006",
-      "title": "Cryptography and secure communication",
-      "content": "Understand cryptography and secure communication from a cybersecurity perspective. This lesson covers threat assessment, security protocols, and practical defense strategies. You'll learn to identify vulnerabilities and implement security measures to protect systems and data.",
-      "duration": 23,
-      "order": 4,
-      "videoUrl": "https://eduhub-videos.s3.amazonaws.com/cryptography-and-secure-communication.mp4",
-      "materials": [
-        "https://eduhub-materials.s3.amazonaws.com/slides.pdf"
-      ],
-      "createdAt": "2025-03-25T18:20:04.946000"
-    },
-    {
-      "_id": "684daf4f2f78d4d0f1719fc6",
+      "_id": "684ec0c92f78d4d0f171a027",
       "lessonId": "LE_026",
       "courseId": "CO_001",
       "title": "Advanced MongoDB Aggregation",
@@ -988,268 +995,268 @@
       "materials": [
         "https://example.com/doc.pdf"
       ],
-      "createdAt": "2025-06-14T18:20:15.283000"
+      "createdAt": "2025-06-15T13:47:05.601000"
     }
   ],
   "assignments": [
     {
-      "_id": "684daf452f78d4d0f1719f9e",
+      "_id": "684ec0c22f78d4d0f1719fff",
       "assignmentId": "AS_001",
-      "courseId": "CO_003",
-      "title": "Build a portfolio website with animations",
-      "description": "Develop a build a portfolio website with animations that showcases modern web development practices. Focus on responsive design, user experience, and clean code architecture. Include both frontend and backend components.",
-      "dueDate": "2025-07-13T18:20:05.465000",
-      "maxPoints": 80,
-      "createdAt": "2025-04-19T18:20:05.465000",
-      "instructions": "Deploy your application and submit the live URL along with your source code. Include a README with setup instructions and a brief description of your architecture choices."
-    },
-    {
-      "_id": "684daf452f78d4d0f1719f9f",
-      "assignmentId": "AS_002",
-      "courseId": "CO_003",
-      "title": "Build a responsive e-commerce website",
-      "description": "Develop a build a responsive e-commerce website that showcases modern web development practices. Focus on responsive design, user experience, and clean code architecture. Include both frontend and backend components.",
-      "dueDate": "2025-07-04T18:20:05.465000",
-      "maxPoints": 100,
-      "createdAt": "2025-04-20T18:20:05.465000",
-      "instructions": "Deploy your application and submit the live URL along with your source code. Include a README with setup instructions and a brief description of your architecture choices."
-    },
-    {
-      "_id": "684daf452f78d4d0f1719fa0",
-      "assignmentId": "AS_003",
-      "courseId": "CO_002",
-      "title": "Analyze customer behavior using retail dataset",
-      "description": "Your task is to analyze customer behavior using retail dataset using the techniques and tools we've discussed. You'll need to clean data, perform analysis, create visualizations, and present your findings in a clear, professional manner.",
-      "dueDate": "2025-06-30T18:20:05.465000",
-      "maxPoints": 100,
-      "createdAt": "2025-05-08T18:20:05.465000",
-      "instructions": "Submit a Jupyter notebook with your analysis, along with a PDF report summarizing your findings. Include data visualizations and statistical analysis. Ensure your code is well-commented."
-    },
-    {
-      "_id": "684daf452f78d4d0f1719fa1",
-      "assignmentId": "AS_004",
       "courseId": "CO_008",
       "title": "Create a personal expense tracker application",
       "description": "Complete a create a personal expense tracker application project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
-      "dueDate": "2025-06-27T18:20:05.465000",
-      "maxPoints": 100,
-      "createdAt": "2025-04-28T18:20:05.465000",
+      "dueDate": "2025-07-14T13:46:58.094000",
+      "maxPoints": 80,
+      "createdAt": "2025-04-16T13:46:58.094000",
       "instructions": "Submit your code in a GitHub repository with a README file explaining your approach. Include unit tests and documentation. Code should follow PEP 8 style guidelines."
     },
     {
-      "_id": "684daf452f78d4d0f1719fa2",
-      "assignmentId": "AS_005",
-      "courseId": "CO_007",
-      "title": "Create a personal expense tracker application",
-      "description": "Complete a create a personal expense tracker application project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
-      "dueDate": "2025-07-09T18:20:05.465000",
+      "_id": "684ec0c22f78d4d0f171a000",
+      "assignmentId": "AS_002",
+      "courseId": "CO_002",
+      "title": "Build a predictive model for stock prices",
+      "description": "Your task is to build a predictive model for stock prices using the techniques and tools we've discussed. You'll need to clean data, perform analysis, create visualizations, and present your findings in a clear, professional manner.",
+      "dueDate": "2025-06-28T13:46:58.094000",
       "maxPoints": 100,
-      "createdAt": "2025-04-18T18:20:05.465000",
-      "instructions": "Submit your code in a GitHub repository with a README file explaining your approach. Include unit tests and documentation. Code should follow PEP 8 style guidelines."
+      "createdAt": "2025-05-07T13:46:58.094000",
+      "instructions": "Submit a Jupyter notebook with your analysis, along with a PDF report summarizing your findings. Include data visualizations and statistical analysis. Ensure your code is well-commented."
     },
     {
-      "_id": "684daf452f78d4d0f1719fa3",
-      "assignmentId": "AS_006",
-      "courseId": "CO_005",
+      "_id": "684ec0c22f78d4d0f171a001",
+      "assignmentId": "AS_003",
+      "courseId": "CO_001",
       "title": "Implement data structures and algorithms",
       "description": "Complete a implement data structures and algorithms project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
-      "dueDate": "2025-07-11T18:20:05.465000",
-      "maxPoints": 90,
-      "createdAt": "2025-04-24T18:20:05.465000",
+      "dueDate": "2025-06-22T13:46:58.094000",
+      "maxPoints": 100,
+      "createdAt": "2025-05-15T13:46:58.094000",
       "instructions": "Submit your code in a GitHub repository with a README file explaining your approach. Include unit tests and documentation. Code should follow PEP 8 style guidelines."
     },
     {
-      "_id": "684daf452f78d4d0f1719fa4",
-      "assignmentId": "AS_007",
-      "courseId": "CO_001",
-      "title": "Create a personal expense tracker application",
-      "description": "Complete a create a personal expense tracker application project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
-      "dueDate": "2025-06-28T18:20:05.465000",
+      "_id": "684ec0c22f78d4d0f171a002",
+      "assignmentId": "AS_004",
+      "courseId": "CO_005",
+      "title": "Build a web scraper for e-commerce data",
+      "description": "Complete a build a web scraper for e-commerce data project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
+      "dueDate": "2025-07-04T13:46:58.094000",
       "maxPoints": 80,
-      "createdAt": "2025-05-11T18:20:05.465000",
+      "createdAt": "2025-05-03T13:46:58.094000",
       "instructions": "Submit your code in a GitHub repository with a README file explaining your approach. Include unit tests and documentation. Code should follow PEP 8 style guidelines."
     },
     {
-      "_id": "684daf452f78d4d0f1719fa5",
+      "_id": "684ec0c22f78d4d0f171a003",
+      "assignmentId": "AS_005",
+      "courseId": "CO_007",
+      "title": "Build a web scraper for e-commerce data",
+      "description": "Complete a build a web scraper for e-commerce data project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
+      "dueDate": "2025-06-28T13:46:58.094000",
+      "maxPoints": 100,
+      "createdAt": "2025-04-20T13:46:58.094000",
+      "instructions": "Submit your code in a GitHub repository with a README file explaining your approach. Include unit tests and documentation. Code should follow PEP 8 style guidelines."
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a004",
+      "assignmentId": "AS_006",
+      "courseId": "CO_007",
+      "title": "Implement data structures and algorithms",
+      "description": "Complete a implement data structures and algorithms project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
+      "dueDate": "2025-06-23T13:46:58.094000",
+      "maxPoints": 100,
+      "createdAt": "2025-04-24T13:46:58.094000",
+      "instructions": "Submit your code in a GitHub repository with a README file explaining your approach. Include unit tests and documentation. Code should follow PEP 8 style guidelines."
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a005",
+      "assignmentId": "AS_007",
+      "courseId": "CO_004",
+      "title": "Develop a computer vision application",
+      "description": "Implement a develop a computer vision application using machine learning techniques. Your solution should include data preprocessing, model selection, training, evaluation, and a clear explanation of your approach and results.",
+      "dueDate": "2025-07-03T13:46:58.094000",
+      "maxPoints": 90,
+      "createdAt": "2025-04-22T13:46:58.094000",
+      "instructions": "Submit your trained model, source code, and a technical report explaining your methodology. Include performance metrics and a discussion of potential improvements."
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a006",
       "assignmentId": "AS_008",
       "courseId": "CO_004",
       "title": "Build a chatbot using natural language processing",
       "description": "Implement a build a chatbot using natural language processing using machine learning techniques. Your solution should include data preprocessing, model selection, training, evaluation, and a clear explanation of your approach and results.",
-      "dueDate": "2025-07-01T18:20:05.465000",
-      "maxPoints": 100,
-      "createdAt": "2025-05-03T18:20:05.465000",
+      "dueDate": "2025-07-05T13:46:58.094000",
+      "maxPoints": 90,
+      "createdAt": "2025-04-23T13:46:58.094000",
       "instructions": "Submit your trained model, source code, and a technical report explaining your methodology. Include performance metrics and a discussion of potential improvements."
     },
     {
-      "_id": "684daf452f78d4d0f1719fa6",
+      "_id": "684ec0c22f78d4d0f171a007",
       "assignmentId": "AS_009",
-      "courseId": "CO_004",
-      "title": "Build a chatbot using natural language processing",
-      "description": "Implement a build a chatbot using natural language processing using machine learning techniques. Your solution should include data preprocessing, model selection, training, evaluation, and a clear explanation of your approach and results.",
-      "dueDate": "2025-06-25T18:20:05.465000",
-      "maxPoints": 80,
-      "createdAt": "2025-04-16T18:20:05.465000",
-      "instructions": "Submit your trained model, source code, and a technical report explaining your methodology. Include performance metrics and a discussion of potential improvements."
+      "courseId": "CO_005",
+      "title": "Implement data structures and algorithms",
+      "description": "Complete a implement data structures and algorithms project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
+      "dueDate": "2025-07-03T13:46:58.094000",
+      "maxPoints": 100,
+      "createdAt": "2025-05-12T13:46:58.094000",
+      "instructions": "Submit your code in a GitHub repository with a README file explaining your approach. Include unit tests and documentation. Code should follow PEP 8 style guidelines."
     },
     {
-      "_id": "684daf452f78d4d0f1719fa7",
+      "_id": "684ec0c22f78d4d0f171a008",
       "assignmentId": "AS_010",
-      "courseId": "CO_004",
-      "title": "Create a recommendation system",
-      "description": "Implement a create a recommendation system using machine learning techniques. Your solution should include data preprocessing, model selection, training, evaluation, and a clear explanation of your approach and results.",
-      "dueDate": "2025-07-11T18:20:05.465000",
+      "courseId": "CO_007",
+      "title": "Implement data structures and algorithms",
+      "description": "Complete a implement data structures and algorithms project that demonstrates your understanding of programming concepts covered in class. This assignment will test your ability to write clean, efficient code and implement best practices.",
+      "dueDate": "2025-07-01T13:46:58.094000",
       "maxPoints": 100,
-      "createdAt": "2025-05-08T18:20:05.465000",
-      "instructions": "Submit your trained model, source code, and a technical report explaining your methodology. Include performance metrics and a discussion of potential improvements."
+      "createdAt": "2025-05-05T13:46:58.094000",
+      "instructions": "Submit your code in a GitHub repository with a README file explaining your approach. Include unit tests and documentation. Code should follow PEP 8 style guidelines."
     }
   ],
   "enrollments": [
     {
-      "_id": "684daf462f78d4d0f1719fa9",
+      "_id": "684ec0c22f78d4d0f171a00a",
       "enrollmentId": "EN_002",
-      "studentId": "ST_015",
-      "courseId": "CO_006",
-      "enrollmentDate": "2025-04-19T18:20:06.005000",
-      "status": "dropped",
-      "progress": 69,
-      "completionDate": "2025-05-28T18:20:06.005000"
+      "studentId": "ST_009",
+      "courseId": "CO_008",
+      "enrollmentDate": "2025-05-04T13:46:58.629000",
+      "status": "completed",
+      "progress": 29,
+      "completionDate": "2025-06-07T13:46:58.629000"
     },
     {
-      "_id": "684daf462f78d4d0f1719faa",
+      "_id": "684ec0c22f78d4d0f171a00b",
       "enrollmentId": "EN_003",
-      "studentId": "ST_006",
-      "courseId": "CO_001",
-      "enrollmentDate": "2025-04-26T18:20:06.005000",
+      "studentId": "ST_013",
+      "courseId": "CO_006",
+      "enrollmentDate": "2025-06-10T13:46:58.629000",
       "status": "completed",
-      "progress": 56,
+      "progress": 99,
       "completionDate": null
     },
     {
-      "_id": "684daf462f78d4d0f1719fab",
+      "_id": "684ec0c22f78d4d0f171a00c",
       "enrollmentId": "EN_004",
-      "studentId": "ST_014",
-      "courseId": "CO_007",
-      "enrollmentDate": "2025-05-20T18:20:06.005000",
+      "studentId": "ST_011",
+      "courseId": "CO_004",
+      "enrollmentDate": "2025-05-14T13:46:58.629000",
+      "status": "dropped",
+      "progress": 40,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a00d",
+      "enrollmentId": "EN_005",
+      "studentId": "ST_002",
+      "courseId": "CO_005",
+      "enrollmentDate": "2025-05-28T13:46:58.629000",
       "status": "active",
+      "progress": 97,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a00e",
+      "enrollmentId": "EN_006",
+      "studentId": "ST_010",
+      "courseId": "CO_002",
+      "enrollmentDate": "2025-05-03T13:46:58.629000",
+      "status": "dropped",
+      "progress": 47,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a00f",
+      "enrollmentId": "EN_007",
+      "studentId": "ST_015",
+      "courseId": "CO_007",
+      "enrollmentDate": "2025-04-19T13:46:58.629000",
+      "status": "active",
+      "progress": 74,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a010",
+      "enrollmentId": "EN_008",
+      "studentId": "ST_011",
+      "courseId": "CO_001",
+      "enrollmentDate": "2025-05-25T13:46:58.629000",
+      "status": "dropped",
+      "progress": 5,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a011",
+      "enrollmentId": "EN_009",
+      "studentId": "ST_010",
+      "courseId": "CO_008",
+      "enrollmentDate": "2025-04-30T13:46:58.629000",
+      "status": "active",
+      "progress": 40,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a012",
+      "enrollmentId": "EN_010",
+      "studentId": "ST_005",
+      "courseId": "CO_005",
+      "enrollmentDate": "2025-05-03T13:46:58.629000",
+      "status": "dropped",
+      "progress": 60,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a013",
+      "enrollmentId": "EN_011",
+      "studentId": "ST_003",
+      "courseId": "CO_007",
+      "enrollmentDate": "2025-05-14T13:46:58.629000",
+      "status": "dropped",
+      "progress": 75,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c22f78d4d0f171a014",
+      "enrollmentId": "EN_012",
+      "studentId": "ST_009",
+      "courseId": "CO_005",
+      "enrollmentDate": "2025-04-18T13:46:58.629000",
+      "status": "dropped",
       "progress": 15,
       "completionDate": null
     },
     {
-      "_id": "684daf462f78d4d0f1719fac",
-      "enrollmentId": "EN_005",
-      "studentId": "ST_003",
-      "courseId": "CO_003",
-      "enrollmentDate": "2025-06-08T18:20:06.005000",
-      "status": "completed",
-      "progress": 20,
-      "completionDate": null
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fad",
-      "enrollmentId": "EN_006",
-      "studentId": "ST_014",
-      "courseId": "CO_006",
-      "enrollmentDate": "2025-05-20T18:20:06.005000",
-      "status": "dropped",
-      "progress": 87,
-      "completionDate": "2025-06-02T18:20:06.005000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fae",
-      "enrollmentId": "EN_007",
-      "studentId": "ST_015",
-      "courseId": "CO_003",
-      "enrollmentDate": "2025-05-10T18:20:06.005000",
-      "status": "active",
-      "progress": 66,
-      "completionDate": null
-    },
-    {
-      "_id": "684daf462f78d4d0f1719faf",
-      "enrollmentId": "EN_008",
-      "studentId": "ST_003",
-      "courseId": "CO_008",
-      "enrollmentDate": "2025-05-25T18:20:06.005000",
-      "status": "dropped",
-      "progress": 100,
-      "completionDate": null
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fb0",
-      "enrollmentId": "EN_009",
-      "studentId": "ST_011",
-      "courseId": "CO_002",
-      "enrollmentDate": "2025-05-13T18:20:06.005000",
-      "status": "completed",
-      "progress": 84,
-      "completionDate": null
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fb1",
-      "enrollmentId": "EN_010",
-      "studentId": "ST_007",
-      "courseId": "CO_004",
-      "enrollmentDate": "2025-05-22T18:20:06.005000",
-      "status": "dropped",
-      "progress": 67,
-      "completionDate": "2025-06-02T18:20:06.005000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fb2",
-      "enrollmentId": "EN_011",
-      "studentId": "ST_015",
-      "courseId": "CO_005",
-      "enrollmentDate": "2025-06-10T18:20:06.005000",
-      "status": "dropped",
-      "progress": 23,
-      "completionDate": "2025-06-07T18:20:06.005000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fb3",
-      "enrollmentId": "EN_012",
-      "studentId": "ST_002",
-      "courseId": "CO_008",
-      "enrollmentDate": "2025-05-03T18:20:06.005000",
-      "status": "dropped",
-      "progress": 28,
-      "completionDate": "2025-05-31T18:20:06.005000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fb4",
+      "_id": "684ec0c22f78d4d0f171a015",
       "enrollmentId": "EN_013",
-      "studentId": "ST_010",
-      "courseId": "CO_007",
-      "enrollmentDate": "2025-06-01T18:20:06.005000",
+      "studentId": "ST_004",
+      "courseId": "CO_005",
+      "enrollmentDate": "2025-05-14T13:46:58.629000",
       "status": "completed",
-      "progress": 38,
-      "completionDate": "2025-05-25T18:20:06.005000"
+      "progress": 23,
+      "completionDate": "2025-06-08T13:46:58.629000"
     },
     {
-      "_id": "684daf462f78d4d0f1719fb5",
+      "_id": "684ec0c22f78d4d0f171a016",
       "enrollmentId": "EN_014",
-      "studentId": "ST_010",
-      "courseId": "CO_003",
-      "enrollmentDate": "2025-05-10T18:20:06.005000",
-      "status": "completed",
-      "progress": 2,
-      "completionDate": "2025-05-17T18:20:06.005000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fb6",
-      "enrollmentId": "EN_015",
-      "studentId": "ST_003",
+      "studentId": "ST_006",
       "courseId": "CO_001",
-      "enrollmentDate": "2025-05-19T18:20:06.005000",
-      "status": "completed",
-      "progress": 37,
-      "completionDate": "2025-06-11T18:20:06.005000"
+      "enrollmentDate": "2025-06-11T13:46:58.629000",
+      "status": "dropped",
+      "progress": 66,
+      "completionDate": "2025-05-16T13:46:58.629000"
     },
     {
-      "_id": "684daf4e2f78d4d0f1719fc5",
+      "_id": "684ec0c22f78d4d0f171a017",
+      "enrollmentId": "EN_015",
+      "studentId": "ST_005",
+      "courseId": "CO_002",
+      "enrollmentDate": "2025-06-14T13:46:58.629000",
+      "status": "dropped",
+      "progress": 22,
+      "completionDate": null
+    },
+    {
+      "_id": "684ec0c92f78d4d0f171a026",
       "enrollmentId": "EN_016",
       "studentId": "ST_001",
       "courseId": "CO_001",
-      "enrollmentDate": "2025-06-14T18:20:14.216000",
+      "enrollmentDate": "2025-06-15T13:47:05.187000",
       "status": "active",
       "progress": 0,
       "completionDate": null
@@ -1257,183 +1264,185 @@
   ],
   "submissions": [
     {
-      "_id": "684daf462f78d4d0f1719fb7",
+      "_id": "684ec0c32f78d4d0f171a018",
       "submissionId": "SU_001",
-      "assignmentId": "AS_005",
-      "studentId": "ST_014",
-      "submissionDate": "2025-05-19T18:20:06.476000",
-      "content": "Applied the techniques learned in lectures to solve this problem. The solution is scalable and well-structured with clean, readable code.",
+      "assignmentId": "AS_010",
+      "studentId": "ST_015",
+      "submissionDate": "2025-05-25T13:46:59.222000",
+      "content": "Encountered some challenges during implementation but found creative solutions. The final result meets all specifications and includes error handling.",
       "attachments": [
-        "https://colab.research.google.com/drive/assignment-notebook",
-        "https://eduhub-submissions.s3.amazonaws.com/source-code.zip",
-        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4"
-      ],
-      "grade": 95,
-      "feedback": "Excellent work! Well structured and documented.",
-      "gradedDate": "2025-06-14T18:20:18.761000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fb8",
-      "submissionId": "SU_002",
-      "assignmentId": "AS_008",
-      "studentId": "ST_007",
-      "submissionDate": "2025-05-22T18:20:06.476000",
-      "content": "Applied the techniques learned in lectures to solve this problem. The solution is scalable and well-structured with clean, readable code.",
-      "attachments": [
+        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4",
+        "https://eduhub-submissions.s3.amazonaws.com/report.pdf",
         "https://github.com/student/assignment-repo"
       ],
       "grade": 95,
-      "feedback": "Excellent work! Your solution demonstrates strong understanding of the concepts. Code is clean and well-documented.",
-      "gradedDate": "2025-06-14T18:20:06.476000"
+      "feedback": "Excellent work! Well structured and documented.",
+      "gradedDate": "2025-06-15T13:47:07.500000"
     },
     {
-      "_id": "684daf462f78d4d0f1719fb9",
-      "submissionId": "SU_003",
-      "assignmentId": "AS_010",
-      "studentId": "ST_007",
-      "submissionDate": "2025-06-02T18:20:06.476000",
-      "content": "This project demonstrates my understanding of the concepts covered in class. I've included extensive comments and examples to show my thought process.",
-      "attachments": [
-        "https://colab.research.google.com/drive/assignment-notebook"
-      ],
-      "grade": null,
-      "feedback": null,
-      "gradedDate": null
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fba",
-      "submissionId": "SU_004",
-      "assignmentId": "AS_001",
-      "studentId": "ST_010",
-      "submissionDate": "2025-06-04T18:20:06.476000",
-      "content": "Successfully implemented the requirements with additional features for enhanced functionality. Spent extra time on optimization and user experience.",
-      "attachments": [
-        "https://eduhub-submissions.s3.amazonaws.com/source-code.zip"
-      ],
-      "grade": 85,
-      "feedback": "Good effort. The implementation is correct but could benefit from better error handling and code organization.",
-      "gradedDate": "2025-06-10T18:20:06.476000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fbb",
-      "submissionId": "SU_005",
-      "assignmentId": "AS_001",
-      "studentId": "ST_015",
-      "submissionDate": "2025-06-04T18:20:06.476000",
-      "content": "Encountered some challenges during implementation but found creative solutions. The final result meets all specifications and includes error handling.",
-      "attachments": [
-        "https://eduhub-submissions.s3.amazonaws.com/report.pdf",
-        "https://colab.research.google.com/drive/assignment-notebook"
-      ],
-      "grade": null,
-      "feedback": null,
-      "gradedDate": null
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fbc",
-      "submissionId": "SU_006",
-      "assignmentId": "AS_007",
-      "studentId": "ST_003",
-      "submissionDate": "2025-05-19T18:20:06.476000",
-      "content": "This project demonstrates my understanding of the concepts covered in class. I've included extensive comments and examples to show my thought process.",
+      "_id": "684ec0c32f78d4d0f171a019",
+      "submissionId": "SU_002",
+      "assignmentId": "AS_004",
+      "studentId": "ST_005",
+      "submissionDate": "2025-05-27T13:46:59.222000",
+      "content": "Completed the assignment as requested. Implemented all required features and tested thoroughly. The solution follows best practices and includes proper documentation.",
       "attachments": [
         "https://github.com/student/assignment-repo",
         "https://colab.research.google.com/drive/assignment-notebook",
-        "https://eduhub-submissions.s3.amazonaws.com/report.pdf"
+        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4"
       ],
-      "grade": 90,
-      "feedback": "Solid work. All requirements met. Nice use of design patterns and best practices.",
-      "gradedDate": "2025-06-09T18:20:06.476000"
+      "grade": 91,
+      "feedback": "Good effort. The implementation is correct but could benefit from better error handling and code organization.",
+      "gradedDate": "2025-06-11T13:46:59.222000"
     },
     {
-      "_id": "684daf462f78d4d0f1719fbd",
-      "submissionId": "SU_007",
+      "_id": "684ec0c32f78d4d0f171a01a",
+      "submissionId": "SU_003",
       "assignmentId": "AS_008",
-      "studentId": "ST_007",
-      "submissionDate": "2025-06-06T18:20:06.476000",
+      "studentId": "ST_011",
+      "submissionDate": "2025-06-03T13:46:59.222000",
       "content": "This project demonstrates my understanding of the concepts covered in class. I've included extensive comments and examples to show my thought process.",
       "attachments": [
         "https://eduhub-submissions.s3.amazonaws.com/report.pdf",
         "https://student-portfolio.herokuapp.com/project"
       ],
-      "grade": 85,
-      "feedback": "Great attention to detail. The documentation and testing are particularly impressive.",
-      "gradedDate": "2025-06-02T18:20:06.476000"
+      "grade": 87,
+      "feedback": "Good solution overall. Some minor issues with edge cases, but the core logic is sound.",
+      "gradedDate": "2025-06-14T13:46:59.222000"
     },
     {
-      "_id": "684daf462f78d4d0f1719fbe",
-      "submissionId": "SU_008",
-      "assignmentId": "AS_005",
-      "studentId": "ST_014",
-      "submissionDate": "2025-06-06T18:20:06.476000",
+      "_id": "684ec0c32f78d4d0f171a01b",
+      "submissionId": "SU_004",
+      "assignmentId": "AS_001",
+      "studentId": "ST_010",
+      "submissionDate": "2025-05-30T13:46:59.223000",
       "content": "Completed the assignment as requested. Implemented all required features and tested thoroughly. The solution follows best practices and includes proper documentation.",
+      "attachments": [
+        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4",
+        "https://colab.research.google.com/drive/assignment-notebook"
+      ],
+      "grade": 82,
+      "feedback": "Good solution overall. Some minor issues with edge cases, but the core logic is sound.",
+      "gradedDate": "2025-06-06T13:46:59.223000"
+    },
+    {
+      "_id": "684ec0c32f78d4d0f171a01c",
+      "submissionId": "SU_005",
+      "assignmentId": "AS_004",
+      "studentId": "ST_002",
+      "submissionDate": "2025-06-03T13:46:59.223000",
+      "content": "Applied the techniques learned in lectures to solve this problem. The solution is scalable and well-structured with clean, readable code.",
+      "attachments": [
+        "https://student-portfolio.herokuapp.com/project"
+      ],
+      "grade": 88,
+      "feedback": "Solid work. All requirements met. Nice use of design patterns and best practices.",
+      "gradedDate": "2025-06-06T13:46:59.223000"
+    },
+    {
+      "_id": "684ec0c32f78d4d0f171a01d",
+      "submissionId": "SU_006",
+      "assignmentId": "AS_002",
+      "studentId": "ST_005",
+      "submissionDate": "2025-05-21T13:46:59.223000",
+      "content": "Applied the techniques learned in lectures to solve this problem. The solution is scalable and well-structured with clean, readable code.",
+      "attachments": [
+        "https://colab.research.google.com/drive/assignment-notebook",
+        "https://eduhub-submissions.s3.amazonaws.com/report.pdf",
+        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4"
+      ],
+      "grade": 88,
+      "feedback": "Good effort. The implementation is correct but could benefit from better error handling and code organization.",
+      "gradedDate": "2025-06-04T13:46:59.223000"
+    },
+    {
+      "_id": "684ec0c32f78d4d0f171a01e",
+      "submissionId": "SU_007",
+      "assignmentId": "AS_004",
+      "studentId": "ST_005",
+      "submissionDate": "2025-06-10T13:46:59.223000",
+      "content": "Successfully implemented the requirements with additional features for enhanced functionality. Spent extra time on optimization and user experience.",
+      "attachments": [
+        "https://github.com/student/assignment-repo"
+      ],
+      "grade": 88,
+      "feedback": "Great attention to detail. The documentation and testing are particularly impressive.",
+      "gradedDate": "2025-06-14T13:46:59.223000"
+    },
+    {
+      "_id": "684ec0c32f78d4d0f171a01f",
+      "submissionId": "SU_008",
+      "assignmentId": "AS_006",
+      "studentId": "ST_003",
+      "submissionDate": "2025-05-24T13:46:59.223000",
+      "content": "Applied the techniques learned in lectures to solve this problem. The solution is scalable and well-structured with clean, readable code.",
       "attachments": [
         "https://colab.research.google.com/drive/assignment-notebook"
       ],
-      "grade": 96,
-      "feedback": "Good solution overall. Some minor issues with edge cases, but the core logic is sound.",
-      "gradedDate": "2025-06-03T18:20:06.476000"
+      "grade": 88,
+      "feedback": "Excellent work! Your solution demonstrates strong understanding of the concepts. Code is clean and well-documented.",
+      "gradedDate": "2025-06-06T13:46:59.223000"
     },
     {
-      "_id": "684daf462f78d4d0f1719fbf",
+      "_id": "684ec0c32f78d4d0f171a020",
       "submissionId": "SU_009",
-      "assignmentId": "AS_008",
-      "studentId": "ST_007",
-      "submissionDate": "2025-05-28T18:20:06.476000",
-      "content": "Successfully implemented the requirements with additional features for enhanced functionality. Spent extra time on optimization and user experience.",
+      "assignmentId": "AS_003",
+      "studentId": "ST_011",
+      "submissionDate": "2025-06-05T13:46:59.223000",
+      "content": "Encountered some challenges during implementation but found creative solutions. The final result meets all specifications and includes error handling.",
       "attachments": [
-        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4",
         "https://github.com/student/assignment-repo"
+      ],
+      "grade": 92,
+      "feedback": "Great attention to detail. The documentation and testing are particularly impressive.",
+      "gradedDate": "2025-06-04T13:46:59.223000"
+    },
+    {
+      "_id": "684ec0c32f78d4d0f171a021",
+      "submissionId": "SU_010",
+      "assignmentId": "AS_003",
+      "studentId": "ST_006",
+      "submissionDate": "2025-06-01T13:46:59.223000",
+      "content": "This project demonstrates my understanding of the concepts covered in class. I've included extensive comments and examples to show my thought process.",
+      "attachments": [
+        "https://colab.research.google.com/drive/assignment-notebook",
+        "https://github.com/student/assignment-repo",
+        "https://eduhub-submissions.s3.amazonaws.com/source-code.zip"
+      ],
+      "grade": 90,
+      "feedback": "Good solution overall. Some minor issues with edge cases, but the core logic is sound.",
+      "gradedDate": "2025-06-05T13:46:59.223000"
+    },
+    {
+      "_id": "684ec0c32f78d4d0f171a022",
+      "submissionId": "SU_011",
+      "assignmentId": "AS_005",
+      "studentId": "ST_015",
+      "submissionDate": "2025-06-06T13:46:59.223000",
+      "content": "Completed the assignment as requested. Implemented all required features and tested thoroughly. The solution follows best practices and includes proper documentation.",
+      "attachments": [
+        "https://eduhub-submissions.s3.amazonaws.com/source-code.zip",
+        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4"
       ],
       "grade": null,
       "feedback": null,
       "gradedDate": null
     },
     {
-      "_id": "684daf462f78d4d0f1719fc0",
-      "submissionId": "SU_010",
-      "assignmentId": "AS_004",
-      "studentId": "ST_002",
-      "submissionDate": "2025-05-30T18:20:06.476000",
-      "content": "Applied the techniques learned in lectures to solve this problem. The solution is scalable and well-structured with clean, readable code.",
+      "_id": "684ec0c32f78d4d0f171a023",
+      "submissionId": "SU_012",
+      "assignmentId": "AS_005",
+      "studentId": "ST_003",
+      "submissionDate": "2025-05-30T13:46:59.223000",
+      "content": "Completed the assignment as requested. Implemented all required features and tested thoroughly. The solution follows best practices and includes proper documentation.",
       "attachments": [
-        "https://student-portfolio.herokuapp.com/project",
-        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4"
+        "https://eduhub-submissions.s3.amazonaws.com/report.pdf",
+        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4",
+        "https://colab.research.google.com/drive/assignment-notebook"
       ],
       "grade": 91,
-      "feedback": "Well done! Creative approach to the problem. Consider optimizing the algorithm for better performance.",
-      "gradedDate": "2025-06-14T18:20:06.476000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fc1",
-      "submissionId": "SU_011",
-      "assignmentId": "AS_003",
-      "studentId": "ST_011",
-      "submissionDate": "2025-06-10T18:20:06.476000",
-      "content": "Applied the techniques learned in lectures to solve this problem. The solution is scalable and well-structured with clean, readable code.",
-      "attachments": [
-        "https://student-portfolio.herokuapp.com/project",
-        "https://eduhub-submissions.s3.amazonaws.com/report.pdf",
-        "https://eduhub-submissions.s3.amazonaws.com/project-demo.mp4"
-      ],
-      "grade": 87,
       "feedback": "Great attention to detail. The documentation and testing are particularly impressive.",
-      "gradedDate": "2025-06-01T18:20:06.476000"
-    },
-    {
-      "_id": "684daf462f78d4d0f1719fc2",
-      "submissionId": "SU_012",
-      "assignmentId": "AS_006",
-      "studentId": "ST_015",
-      "submissionDate": "2025-05-21T18:20:06.476000",
-      "content": "Applied the techniques learned in lectures to solve this problem. The solution is scalable and well-structured with clean, readable code.",
-      "attachments": [
-        "https://eduhub-submissions.s3.amazonaws.com/report.pdf",
-        "https://eduhub-submissions.s3.amazonaws.com/source-code.zip"
-      ],
-      "grade": 96,
-      "feedback": "Excellent work! Your solution demonstrates strong understanding of the concepts. Code is clean and well-documented.",
-      "gradedDate": "2025-06-09T18:20:06.476000"
+      "gradedDate": "2025-06-15T13:46:59.223000"
     }
   ]
 }
