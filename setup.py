@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 EduHub MongoDB Project Setup Script
 Installs required dependencies and sets up the environment
